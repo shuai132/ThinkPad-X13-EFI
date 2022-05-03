@@ -931,7 +931,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C026084034NHCF91M</string>
+			<string>C029066004NN9PRA8</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
@@ -941,28 +941,28 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro13,3</string>
+			<string>MacBookPro16,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02R9EYWGTFN</string>
 			<key>SystemUUID</key>
-			<string>E16F43BE-D3D7-462F-B336-6F6B48832C98</string>
+			<string>E9A52BC2-FADA-41D8-8051-E2D3047BEBD1</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-A5C67F76ED83108C</string>
+			<string>Mac-E1008331FDC96864</string>
 			<key>FirmwareFeatures</key>
-			<data>N+EP/AgAAAA=</data>
+			<data>ZvCv/QgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>P/8f/wgAAAA=</data>
+			<data>f////wgAAAA=</data>
 			<key>MLB</key>
-			<string>C026084034NHCF91M</string>
+			<string>C029066004NN9PRA8</string>
 			<key>ROM</key>
 			<data>yGdvD/DZ</data>
 			<key>SystemSerialNumber</key>
-			<string>C02R9EYWGTFN</string>
+			<string>C02Y70WBMD6N</string>
 			<key>SystemUUID</key>
-			<string>E16F43BE-D3D7-462F-B336-6F6B48832C98</string>
+			<string>E9A52BC2-FADA-41D8-8051-E2D3047BEBD1</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

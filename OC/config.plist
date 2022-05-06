@@ -273,7 +273,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
-				<string>Intel ???</string>
+				<string>GeForce RTX 4090Ti</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
